@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido usando tecnologias front-end de ponta.
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/Verdant31/Podcastr && cd podcastr
 ```
 
 **Siga os passos abaixo**
